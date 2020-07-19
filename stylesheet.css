@@ -16,5 +16,8 @@
 }
 
 .paperwm-selection {
-    border-radius: 8px;
+    border-radius: 16px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px solid #e920a3;
+    padding: 6px;
 }
